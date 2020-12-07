@@ -1,0 +1,24 @@
+body, html, header ,h1{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    font-family: helvetica;
+}
+header,body,html{
+    width: 1500px;
+    height: 700px;
+}
+header{
+    background: url("../image/hero-banner.png")  no-repeat center center;
+    background-size: cover;
+    
+    
+    
+}
+a {
+  
+display: block;
+  margin : auto;
+
+} 
